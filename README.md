@@ -23,7 +23,7 @@ Click on the `atus-analysis.ipynb` file above.
 
 * In your command-line program, install the requirements file by runnning **`pip install -r requirements.txt`**.
 
-* You will need to download the data files by running the `download_data.sh` script. (Enter and run the following line at your command prompt: **`./download_data.sh`**)
+* You will need to download the data files by running the `download_data.sh` script. (Enter and run the following line at your command prompt: **`./download_data.sh`**
 
 ### Opening the Notebook
 * From the working directory, use a command-line program, and run the following line: **`ipython notebook atus-analysis.ipynb`**
